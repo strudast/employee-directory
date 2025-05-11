@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/hooks.ts","./src/jest.config.ts","./src/main.tsx","./src/setuptests.ts","./src/vite-env.d.ts","./src/app/store.ts","./src/features/employees/employeedetails.tsx","./src/features/employees/employeelist.test.tsx","./src/features/employees/employeelist.tsx","./src/features/employees/employeesslice.ts"],"version":"5.8.3"}
